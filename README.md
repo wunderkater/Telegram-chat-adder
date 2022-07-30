@@ -19,10 +19,10 @@ In order to obtain an API id and develop your own application using the Telegram
 
 ## Usage for employee
 1. Run commands in your home environment
-   - `python -m venv .venv`
-   - `. .venv/bin/activate`
-   - `python -m pip install certifi asyncio functools typing tqdm Telethon pathlib ssl httpx`
-   - If some libraries are not installed, it's okay
+ - `python -m venv .venv`
+ - `. .venv/bin/activate`
+ - `python -m pip install certifi asyncio functools typing tqdm Telethon pathlib ssl httpx`
+ - If some libraries are not installed, it's okay
     
 2. Copy or download adder.py from employer
 
