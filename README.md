@@ -17,10 +17,10 @@ Many tech companies have work chats that new hires must join. Spam protection in
 
 ## Usage for employee
 1. Run commands in your home environment
-   `python -m venv .venv`
-   `. .venv/bin/activate`
-   `python -m pip install certifi asyncio functools typing tqdm Telethon pathlib ssl httpx`
-    (If some libraries are not installed, it's okay)
+   - `python -m venv .venv`
+   - `. .venv/bin/activate`
+   - `python -m pip install certifi asyncio functools typing tqdm Telethon pathlib ssl httpx`
+      (If some libraries are not installed, it's okay)
     
 2. git clone
 
