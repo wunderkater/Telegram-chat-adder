@@ -11,8 +11,10 @@ In order to obtain an API id and develop your own application using the Telegram
 2. Log in to your Telegram core: https://my.telegram.org
 3. Go to "API development tools" and fill out the form
 4. You will get basic addresses as well as the api_id and api_hash parameters required for user authorization
-5. Add values to variables: api_id = <api_id>, api_hash = "api_hash"
-6. Add invite links in dictionary "chats" in `adder.py`. (Example: "Chat_name": "chat_id")
+5. Add values to variables: 
+ - `api_id = <api_id>`
+ - `api_hash = "api_hash"`
+6. Add invite links in dictionary `"chats"` in `adder.py`. (Example: `"Chat_name": "chat_id"`)
 7. Share your script
 
 ## Usage for employee
