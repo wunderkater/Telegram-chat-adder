@@ -14,7 +14,7 @@ In order to obtain an API id and develop your own application using the Telegram
 5. Add values to variables: 
  - `api_id = <api_id>`
  - `api_hash = "api_hash"`
-6. Add invite links in dictionary `"chats"` in `adder.py`. (Example: `"Chat_name": "chat_id"`)
+6. Add invite links to chats in dictionary `"chats"` in `adder.py`. (Example: `"Chat_name": "chat_id"`)
 7. Share your script
 
 ## Usage for employee
