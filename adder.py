@@ -12,9 +12,9 @@ import httpx
 from os import path
 from pathlib import Path
 
-chats = {}
-api_id = 0
-api_hash = ""
+chats = {"Chat_name": "chat_id"}
+api_id = <api_id>
+api_hash = "api_hash"
 
 home = str(Path.home())
 packagelocation = path.dirname(path.realpath(__file__))
