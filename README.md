@@ -5,8 +5,8 @@ Many tech companies have work chats that new hires must join. Spam protection in
 
 
 ## Usage for employer
+In order to obtain an API id and develop your own application using the Telegram API you need to do the following:
 
-###In order to obtain an API id and develop your own application using the Telegram API you need to do the following:
 1. Sign up for Telegram using any application
 2. Log in to your Telegram core: https://my.telegram.org
 3. Go to "API development tools" and fill out the form
