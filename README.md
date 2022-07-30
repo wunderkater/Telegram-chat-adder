@@ -24,9 +24,9 @@ In order to obtain an API id and develop your own application using the Telegram
    - `python -m pip install certifi asyncio functools typing tqdm Telethon pathlib ssl httpx`
    - If some libraries are not installed, it's okay
     
-2. Run `git clone`
+2. Copy or download adder.py from employer
 
-3. Run`python3 adder.py`
+4. Run`python3 adder.py`
 
 4. Enter your personal code that you will receive from Telegram, and press "Enter", the addition will begin. If you are already in the chat, the addition will move to the next chat. If Telegram enables throttling protection, the script will wait for the required time and continue adding.
 
