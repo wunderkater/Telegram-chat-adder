@@ -20,9 +20,9 @@ Many tech companies have work chats that new hires must join. Spam protection in
    - `python -m venv .venv`
    - `. .venv/bin/activate`
    - `python -m pip install certifi asyncio functools typing tqdm Telethon pathlib ssl httpx`
-      (If some libraries are not installed, it's okay)
+   - *If some libraries are not installed, it's okay
     
-2. git clone
+2. Run `git clone`
 
 3. Run`python3 adder.py`
 
